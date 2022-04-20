@@ -1,0 +1,8 @@
+google
+id ubionclass@gmail.com
+password asdfqwer1234!
+
+
+teamviewer
+id ubionclass@gmail.com
+password ubion
